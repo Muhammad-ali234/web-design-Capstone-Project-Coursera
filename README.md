@@ -36,18 +36,18 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ** This is a design for Desktop screen
 
-![Desktop-design](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Designs/Desktop%20view.png)
+![Desktop-design](https://github.com/Muhammad-ali234/web-design-Capstone-Project-Coursera/blob/main/Designs/desktop.png)
 
 
 ** This is a design for Mobile screen
 
 
-![Mobile-view](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Designs/mobile%20view.png)
+![Mobile-view](https://github.com/Muhammad-ali234/web-design-Capstone-Project-Coursera/blob/main/Designs/mobile.png)
 
 ---
 
 ### w3 Validation for index.html
-![w3validator](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Validations/w3-validator.png)
+![w3validator](https://github.com/Muhammad-ali234/web-design-Capstone-Project-Coursera/blob/main/Validations/w3-validator.png)
 
 ---
 
