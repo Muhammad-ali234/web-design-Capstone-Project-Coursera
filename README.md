@@ -55,10 +55,10 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ** You can visit the Protoflio [here](https://muhammad-ali234.github.io/web-design-Capstone-Project-Coursera/).
 
-![Desktop-view](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Screenshots/disktop-view.gif)
+![Desktop-view](https://github.com/Muhammad-ali234/web-design-Capstone-Project-Coursera/blob/main/Screenshots/desktop%20view.gif)
 
 
-![Mobile-view](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Screenshots/mobile-view.gif)
+![Mobile-view](https://github.com/Muhammad-ali234/web-design-Capstone-Project-Coursera/blob/main/Screenshots/mobile%20view.gif)
 
 
 
